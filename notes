@@ -1,0 +1,3 @@
+admin: Admin
+pw:admin123
+for Imagefield::install pillow(python -m pip install Pillow)
